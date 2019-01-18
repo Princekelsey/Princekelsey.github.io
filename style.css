@@ -53,9 +53,7 @@ hr{
   font-weight: 700;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
-  position: center;
+  align-items: center !important;	
+  justify-content: center !important;
 
-form{
-align-items: center;	
-justify-content: center;
 }
